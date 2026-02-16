@@ -891,8 +891,8 @@ body {
 }
 
 .member-avatar img {
-	width: 85%;
-	height: 85%;
+	width: 100%;
+	height: 100%;
 	object-fit: cover;
 	object-position: center top;
 	border-radius: 50%;
@@ -1398,6 +1398,7 @@ body {
 	color: #64748b;
 
 }
+
 
 
 
