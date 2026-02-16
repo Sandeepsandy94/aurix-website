@@ -893,7 +893,7 @@ body {
 .member-avatar img {
 	width: 90%;
 	height: 90%;
-	object-fit: fill;
+	object-fit: none;
 	object-position: center top;
 	border-radius: 50%;
 }
@@ -1398,6 +1398,7 @@ body {
 	color: #64748b;
 
 }
+
 
 
 
