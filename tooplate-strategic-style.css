@@ -49,7 +49,7 @@ body {
 	transition: all 0.3s ease;
 }
 .logo-img {
-	height: 200px;
+	:500x;
 	width: auto;
 	display: block;
 }
@@ -1397,5 +1397,6 @@ body {
 	color: #64748b;
 
 }
+
 
 
