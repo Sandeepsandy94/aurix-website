@@ -894,7 +894,7 @@ body {
 	width: 90%;
 	height: 90%;
 	object-fit: scale down;
-	object-position: center top;
+	object-position: center 20%;
 	border-radius: 50%;
 }
 
@@ -1398,6 +1398,7 @@ body {
 	color: #64748b;
 
 }
+
 
 
 
