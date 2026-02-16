@@ -891,11 +891,11 @@ body {
 }
 
 .member-avatar img {
-	width: 85%;
-	height: 85%;
-	object-fit: cover;
+	width: 90%;
+	height: 90%;
+	object-fit: fill;
 	object-position: center top;
-	border-radius: 25%;
+	border-radius: 50%;
 }
 
 .member-info h3 {
@@ -1398,6 +1398,7 @@ body {
 	color: #64748b;
 
 }
+
 
 
 
